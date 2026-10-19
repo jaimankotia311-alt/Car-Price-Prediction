@@ -3,7 +3,7 @@ import pandas as pd
 import streamlit as st
 
 # Load the trained model
-model = joblib.load("05 Car Price/car_price_model.joblib")
+model = joblib.load("car_price_model.joblib")
 
 st.set_page_config(page_title="Car Price Prediction", page_icon="🚗")
 
