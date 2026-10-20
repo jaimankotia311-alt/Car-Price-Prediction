@@ -9,7 +9,7 @@ st.set_page_config(page_title="Car Price Prediction", page_icon="🚗")
 
 st.title("🚗 Car Price Prediction")
 st.markdown("Predict your car's price using Machine Learning!")
-st.markdown("Her you'll pass down the specification of the car and you'll get the predicted car price ! 😎")
+st.markdown("🚗 Enter your car's specifications below, and let our Machine Learning model predict its estimated price! 😎")
 
 st.subheader("Enter Car Details")
 
